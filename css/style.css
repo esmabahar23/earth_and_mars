@@ -1,0 +1,21 @@
+body {
+    background: #333333;
+    color: #f4f4f4;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+a {
+    color: darksalmon;
+}
+
+.earth-color {
+    color: #2a8442;
+}
+
+.mars-color {
+    color: #d33d1f;
+}
+
